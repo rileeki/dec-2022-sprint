@@ -1,2 +1,4 @@
 # ignore anything with venv 
 *venv*/
+*.log
+*.csv
