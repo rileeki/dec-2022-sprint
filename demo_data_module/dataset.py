@@ -10,7 +10,7 @@ class EmptyDataset:
         self.df = pd.DataFrame()
         
 
-    def addColumn(self, colName, distribution_dict, data_type):
+    def add Column(self, colName, distribution_dict, data_type):
         combined = list()
         for key in distribution_dict.keys():
             temp_list = [key] * distribution_dict[key]
