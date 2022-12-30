@@ -1,4 +1,4 @@
-from module import log_helpers as log
+from log_helpers import log_helpers as log
 import datetime as dt
 import time
 

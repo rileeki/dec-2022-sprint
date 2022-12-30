@@ -1,0 +1,1 @@
+-e git+ssh://git@github.com/rileeki-org/helper_scripts.git#egg=helper_scripts
